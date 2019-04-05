@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">TheftProtectTv</string>
+
+    <!-- Connection Error Message -->
+    <string name="error_unable_response">Unable to get response from the server, please try again</string>
+    <string name="error_forbidden"> The request is for something forbidden. Authorization will not help </string>
+    <string name="error_invalid_URI">The server has not found anything matching the URI given</string>
+    <string name="error_unexpected">The server encountered an unexpected condition</string>
+    <string name="error_timeout">Connection timeout, please try again</string>
+    <string name="error_server_unavailable">The server is currently unable to handle the request due to a temporary overloading</string>
+    <string name="error_gateway_timeout">The server did not receive a timely response from the upstream server specified by the URI</string>
+    <string name="connectionErrorMessage">Theft Protect is experiencing a connection error</string>
+    <string name="tryAgain">Try again</string>
+    <string name="Alert">Alert</string>
+    <string name="ok">OK</string>
+
+    <!-- Home Activity -->
+    <string name="notRegistered">You are not registered please register using mobile app.</string>
+    <string name="notAllowedToRegistered">Sorry! you are not allowed to register again, because you are already registered.</string>
+    <string name="title1">Welcome to Theft Protect!</string>
+
+   <!-- <string name="title2">You will need to download the phone app at theft-protect.com!</string>
+    <string name="title3">Make sure to go to Smarthub, App Settings, Ticker App, and select the Theft Protect app to make our app autorun each time!</string>
+    <string name="title4">You will need to enter this code in the mobile app to sync to your phone: [generating...]</string>-->
+
+
+    <string name="title2">This is a Google Play Store app that allows you to easily lock and unlock your TV using a basic Internet connection from your phone!</string>
+    <string name="title3">You will need to sync the app on this TV with the app on your phone using this security code:</string>
+    <string name="title4">Once you sync this TV app with your phone app for Theft Protect, this screen will go away. You will be able to lock and unlock your TV from your phone as long as you have Internet to both your TV and your phone.</string>
+    <string name="title5">If your TV loses Internet, it will automatically lock until it connects and recognizes that you have chosen to unlock your TV from your phone!</string>
+    <string name="title6">You can download Theft Protect for your phone here: \nhttp://www.theft-protect.com </string>
+
+</resources>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/TheftProtectTv/volley/unspecified/jars/libs/okhttp-urlconnection-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="cf3e5f69c7113171855013773164ffc93a8503e8">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-2.1.0_dd72b69feaf7d22ef02446f502b3f0e0adf35771.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_d12902c12674953113f9dee8714c85dae501b100.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/TheftProtectTv/volley/unspecified/jars/libs/okhttp-2.1.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9038fa882c915f126aa3ead732e614f56243c3a4">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/okhttp-2.1.0_06b9c82095fa72265356cdd777a316169ab81772.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_a52a93e765d0c2626754984576b3c038d771878f.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/TheftProtectTv/volley/unspecified/jars/libs/okio-1.1.0 .jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f1fbcd83faa0c55fc552a4d026f3d188df25076d">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/okio-1.1.0 _f1ccfa127c9d9ae300726103c26d0e6f9c7f6289.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7ddc12a755ceec96a527b608c55c48efe662f03e">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/com.android.support-leanback-v17-23.2.1_6cd7e2afa4e4bb60339605cc683807775a30e667.jar" />
+    </item>
+    <item
+        jar="/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_fd5bc7f5bb90338547ccb4b43eb501b2fda85f09.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_878c554cc26541883db5d4e72052e03960008fe0.jar" />
+    </item>
+    <item
+        jar="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/exploded-aar/TheftProtectTv/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="7f238b0cb67c546d057848d084a714be9f7df4ae">
+        <dex dex="/Krunal/CurrentProjects/TVTheftProtect/TheftProtectTv/app/build/intermediates/pre-dexed/debug/TheftProtectTv-volley-unspecified_35afaaecc855c0fadf6285c4b8b4bbe28e1a2ce7.jar" />
+    </item>
+
+</items>

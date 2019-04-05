@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:shrinkMode="strict">
+    <!-- FONT SIZE -->
+    <dimen name="doubleextraLargeText">28sp</dimen>
+    <dimen name="mediumText">14sp</dimen>
+    <dimen name="extraMediumText">16sp</dimen>
+    <dimen name="extralargeMediumText">20sp</dimen>
+    <dimen name="largeText">22sp</dimen>
+    <dimen name="extraLarge">24sp</dimen>
+
+</resources>
